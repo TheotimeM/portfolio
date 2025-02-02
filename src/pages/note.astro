@@ -1,0 +1,14 @@
+---
+const pdfPath = "/assets/note.pdf"; // Chemin public vers le fichier PDF
+---
+
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Relevé de notes</title>
+  </head>
+  <body style="margin: 0; padding: 0; height: 100vh; overflow: hidden;">
+    <iframe src={pdfPath} width="100%" height="100%" style="border: none;"></iframe>
+  </body>
+</html>
