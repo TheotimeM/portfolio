@@ -1,7 +1,8 @@
 ---
+slug : "vulnerabilite"
 title: Outil d'automatisation d'analyse de risque (En cours)
 publishDate: 2025-05-01 00:00:00
-img: /assets/stock-3.jpg
+img: /portfolio/assets/stock-3.jpg
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
   Ce projet s'inscrit dans le Stage-Projet que je réalise à l'UQAC, dans le cadre de mon échange universitaire avec l'ESIEA pour ma double diplomation.

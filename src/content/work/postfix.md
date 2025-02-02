@@ -1,7 +1,8 @@
 ---
+sulg: "postfix"
 title: Serveur d'envoi de mail
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
+img: /portfolio/assets/stock-1.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
   Ce projet eut lieu lors de mon stage dans l'entreprise Groupe Lecoq en juin/juillet 2024, durant lequel j'ai participé au développement d'une solution interne.

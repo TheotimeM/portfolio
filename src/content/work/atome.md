@@ -1,7 +1,8 @@
 ---
+slug: "atome"
 title: Démonstration de la discontinuité de la matière
 publishDate: 2019-10-02 00:00:00
-img: /assets/stock-4.jpg
+img: /portfolio/assets/stock-4.jpg
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
   En 2020, lors de ma L2 en double licence à Paris-Saclay, j’ai travaillé sur un projet de recherche portant sur l’histoire de l’atome. Mon objectif était d’étudier la démonstration de la discontinuité de la matière, autrement dit, la preuve scientifique de l’existence des atomes.
