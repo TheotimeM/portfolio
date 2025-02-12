@@ -1,8 +1,8 @@
 ---
 slug: "atome"
 title: Démonstration de la discontinuité de la matière
-publishDate: 2019-10-02 00:00:00
-img: /portfolio/assets/stock-4.jpg
+publishDate: 2017-10-02 00:00:00
+img: /portfolio/assets/stock-3.jpg
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
   En 2020, lors de ma L2 en double licence à Paris-Saclay, j’ai travaillé sur un projet de recherche portant sur l’histoire de l’atome. Mon objectif était d’étudier la démonstration de la discontinuité de la matière, autrement dit, la preuve scientifique de l’existence des atomes.
@@ -17,7 +17,7 @@ tags:
 ##### Mon travail
 Mon travail de recherche s’est donc concentré sur l’analyse de ses écrits, en particulier ceux contenus dans le document d’archive "Notice sur les travaux scientifiques de Jean Perrin". 
 
-J’y ai étudié des sujets variés comme la radioactivité, le mouvement brownien (physique statistique), les expériences observé à l’ultramicroscope, ainsi que la façon dont il s’est appuyé sur les recherches de ses prédécesseurs sur le sujet, tels que les travaux de Maxwell.
+J’y ai étudié des sujets variés comme la radioactivité, le mouvement brownien (physique statistique), les expériences observées à l’ultramicroscope, ainsi que la façon dont il s’est appuyé sur les recherches de ses prédécesseurs, tels que les travaux de Maxwell.
 
 La principale difficulté de ce projet a été de trouver des documents pertinents et d’en extraire les informations. Le document analysé comportait une centaine de pages d’un niveau équivalent à un Master, rendant son étude exigeante.
 
