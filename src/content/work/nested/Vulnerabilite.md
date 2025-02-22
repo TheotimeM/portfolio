@@ -19,23 +19,29 @@ Si de nombreux outils permettent aujourd’hui de détecter les vulnérabilités
 
 Ces attaques avancées combinent plusieurs vulnérabilités pour contourner les défenses et atteindre des objectifs critiques.
 
-Les graphes d'attaque probabilistes apportent une solution à ce problème en modélisant non seulement les vulnérabilités isolées, 
+Les graphes d'attaque probabilistes apportent une mise en évidence à ce problème en modélisant non seulement les vulnérabilités isolées, 
 mais aussi les enchaînements d'exploits possibles. 
 De plus, les graphes d'attaques probabilistes permettent d'estimer la probabilité de réussite de chaque exploit permettant ainsi de quantifier le risque de manière objective et mesurable, 
 plutôt que de s'appuyer uniquement sur l'intuition ou l'expérience des administrateurs système.
 
 ##### Objectif du projet
 L'objectif du projet est de concevoir un graphe d'attaque probabiliste permettant de modéliser les relations entre les exploits et leur interaction avec les machines connectées sur un réseau.
-Pour y parvenir, deux étapes sont nécessaires :
+Pour y parvenir, trois étapes sont nécessaires :
 
 - Cartographier la topologie du réseau afin d’identifier les machines connectées et d’analyser les vulnérabilités associées à chacune d’elles.
 
-- Développer des algorithmes pour générer des graphes d'attaque probabilistes, intégrant les dépendances entre exploits et estimant la probabilité de succès de chaque chemin d’attaque.
+- Concevoir un moteur d'inférence modélisant la propagation des attaques en analysant les relations entre machines, accès et vulnérabilités pour identifier les chemins d'attaque exploitables.
+
+- Développer des algorithmes pour générer des graphes d'attaque probabilistes, estimant la probabilité de succès de chaque chemin d’attaque.
 
 ##### Mon rôle dans le projet
-Dans le cadre de ce projet, je suis principalement en charge du développement des algorithmes permettant de construire et d'analyser les graphes d'attaque probabilistes. Cela implique la modélisation des liens entre les différentes vulnérabilités, ainsi que l'implémentation d'algorithmes pour calculer les probabilités de succès des exploits en fonction des configurations du réseau.
+Dans le cadre de ce projet, je suis principalement en charge du développement du moteur d’inférence et des algorithmes de construction de graphes d’attaque probabilistes. 
 
-Une partie essentielle de mon travail consiste également à intégrer les données de la NVD (National Vulnerability Database) via ses API afin d'enrichir le modèle avec des informations actualisées sur les vulnérabilités connues. L'objectif est de rendre l'outil dynamique et capable d'évoluer avec l’apparition de nouvelles menaces.
+Pour le moteur d'inférence, cela implique de définir les règles logiques régissant la propagation des attaques, en modélisant les liens entre machines, accès et vulnérabilités. L’objectif est de formaliser comment une attaque peut évoluer à travers le réseau, notamment en déterminant comment l’exploitation d’une vulnérabilité permet d’obtenir de nouveaux accès facilitant les futures attaques.
+
+En parallèle, je développe les algorithmes permettant de générer et analyser les graphes d’attaque, notamment en calculant les probabilités de succès des exploits en fonction de la configuration du réseau.
+
+Une partie importante de mon travail consiste également à intégrer les données de la NVD (National Vulnerability Database) via ses API en fournissant l’ID CVE des vulnérabilités pour obtenir davantage d'informations. L'API permet notamment de récupérer l’Exploitability Score, utilisé pour calculer la probabilité d’exploitation de chaque vulnérabilité dans le graphe d'attaque.
 
 ##### Conclusion
-Ce projet constitue ma première expérience concrète en cybersécurité, et me permet d’aller au-delà de la théorie en appliquant des modèles d’attaque à des cas réels. Il constitue aussi une expérience de développement directement utile, car il répond à un besoin actuel des entreprises : mieux anticiper les attaques multi-étapes. Enfin, en intégrant les données de la NVD via ses API, je développe des compétences en extraction et exploitation de données pour automatiser la gestion des vulnérabilités.
+Ce projet constitue ma première expérience concrète en cybersécurité, et me permet d’aller au-delà de la théorie en appliquant des modèles d’attaques à des cas réels. Il constitue aussi une expérience de développement directement utile, car il répond à un besoin actuel des entreprises : mieux anticiper les attaques multi-étapes. Enfin, en intégrant les données de la NVD via ses API, je développe des compétences en extraction et exploitation de données pour automatiser la gestion des vulnérabilités.

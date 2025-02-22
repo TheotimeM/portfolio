@@ -43,4 +43,4 @@ Ce projet m’a permis de consolider mes compétences en gestion de projet, en d
 
 L’intégration de divers composants électroniques m’a également apporté une expérience précieuse en interaction hardware/software.
 
-Le projet s'est terminé en juin 2024 lors de la présentation devant des jurys et d'autres étudiants lors des <a href="https://techday-paris.esiea.fr/projet/15/">Techdays</a>, un salon créé par l'ESIEA, où nous avons été récompensés du prix Coup de Cœur.
+Le projet s'est terminé en juin 2024 lors de la présentation devant des jurys et d'autres étudiants lors des <a href="https://techday-paris.esiea.fr/projet/15/">Techdays</a>, un salon organisé par l'ESIEA, où nous avons été récompensés du prix Coup de Cœur.

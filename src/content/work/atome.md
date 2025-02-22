@@ -22,5 +22,5 @@ J’y ai étudié des sujets variés comme la radioactivité, le mouvement brown
 La principale difficulté de ce projet a été de trouver des documents pertinents et d’en extraire les informations. Le document analysé comportait une centaine de pages d’un niveau équivalent à un Master, rendant son étude exigeante.
 
 ##### Conclusion
-Cette expérience m’a appris à lire et comprendre des textes longs et complexes, à identifier les informations clés et à structurer une analyse rigoureuse à partir de sources fiables. Elle a renforcé ma capacité à traiter efficacement un volume important de données et à en extraire l’essentiel pour répondre à une problématique donnée.
+Cette expérience m’a appris à lire et comprendre des textes longs et complexes, à identifier les informations clés et à structurer une analyse rigoureuse à partir de sources fiables. Elle a renforcé ma capacité à traiter efficacement un volume important de données et à en extraire l’essentiel pour répondre à une problématique donnée le tout sans l’aide de l’IA.
 

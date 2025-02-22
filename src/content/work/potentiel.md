@@ -5,7 +5,7 @@ publishDate: 2022-06-01 00:00:00
 img: /portfolio/assets/stock-4.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  Ce projet a eu lieu en 2022 à Paris-Saclay et a abouti à une conférence de vulgarisation dans le cadre des Cordées de la réussite.
+  Ce projet a eu lieu en 2022 à Paris-Saclay et a abouti à une conférence de vulgarisation, au collège René Bassin à Chanteloup-les-Vignes, dans le cadre des Cordées de la réussite.
 tags:
   - Python
   - Physique
