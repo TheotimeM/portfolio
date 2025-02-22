@@ -10,6 +10,7 @@ tags:
   - Dev
   - Cybersécurité
   - Gestion des vulnérabilités
+  - Python
 ---
 ##### Introduction
 La gestion des vulnérabilités est un enjeu majeur pour les entreprises, face à des menaces de plus en plus sophistiquées. 
@@ -25,7 +26,7 @@ De plus, les graphes d'attaques probabilistes permettent d'estimer la probabilit
 plutôt que de s'appuyer uniquement sur l'intuition ou l'expérience des administrateurs système.
 
 ##### Objectif du projet
-L'objectif du projet est de concevoir un graphe d'attaque probabiliste permettant de modéliser les relations entre les exploits et leur interaction avec les machines connectées sur un réseau.
+L’objectif du projet est de développer un outil Python permettant de concevoir un graphe d’attaque probabiliste, modélisant les interactions entre les exploits et les machines connectées sur un réseau.
 Pour y parvenir, trois étapes sont nécessaires :
 
 - Cartographier la topologie du réseau afin d’identifier les machines connectées et d’analyser les vulnérabilités associées à chacune d’elles.
@@ -44,4 +45,5 @@ En parallèle, je développe les algorithmes permettant de générer et analyser
 Une partie importante de mon travail consiste également à intégrer les données de la NVD (National Vulnerability Database) via ses API en fournissant l’ID CVE des vulnérabilités pour obtenir davantage d'informations. L'API permet notamment de récupérer l’Exploitability Score, utilisé pour calculer la probabilité d’exploitation de chaque vulnérabilité dans le graphe d'attaque.
 
 ##### Conclusion
-Ce projet constitue ma première expérience concrète en cybersécurité, et me permet d’aller au-delà de la théorie en appliquant des modèles d’attaques à des cas réels. Il constitue aussi une expérience de développement directement utile, car il répond à un besoin actuel des entreprises : mieux anticiper les attaques multi-étapes. Enfin, en intégrant les données de la NVD via ses API, je développe des compétences en extraction et exploitation de données pour automatiser la gestion des vulnérabilités.
+Ce projet constitue ma première expérience concrète en cybersécurité, et me permet d’aller au-delà de la théorie en appliquant des modèles d’attaques à des cas réels. 
+Il constitue aussi une expérience de développement directement utile, car il répond à un besoin actuel des entreprises : mieux anticiper les attaques multi-étapes. Enfin, en intégrant les données de la NVD via ses API, je développe des compétences en extraction et exploitation de données pour automatiser la gestion des vulnérabilités.

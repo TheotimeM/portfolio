@@ -5,7 +5,7 @@ publishDate: 2017-03-02 00:00:00
 img: /portfolio/assets/stock-2.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  Le projet EcoNovice s'inscrit dans le cadre du Projet à impact RSE (PAIRSE) de 2ème année à l'ESIEA.
+  Le projet EcoNovice s'inscrit dans le cadre du Projet à impact RSE (PAIRSE) de 2ème année de classe préparatoire à l'ESIEA.
 tags:
   - AGILE
   - ODD 12

@@ -5,7 +5,7 @@ publishDate: 2024-06-01 00:00:00
 img: /portfolio/assets/stock-2.jpg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
-  Le projet CardScan s'inscrit dans le cadre du Projet Scientifique et Technique (PST) de 2ème année à l'ESIEA.
+  Le projet CardScan s'inscrit dans le cadre du Projet Scientifique et Technique (PST) de 2ème année de classe préparatoire à l'ESIEA.
 tags:
   - Python
   - Embarqué

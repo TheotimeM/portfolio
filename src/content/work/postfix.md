@@ -5,7 +5,7 @@ publishDate: 2020-03-02 00:00:00
 img: /portfolio/assets/stock-1.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  Ce projet a eu lieu lors de mon stage dans l'entreprise Groupe Lecoq en juin/juillet 2024, durant lequel j'ai participé au développement d'une solution interne.
+  Ce projet a eu lieu lors de mon stage dans l'entreprise Groupe Lecoq en juin et juillet 2024, durant lequel j'ai participé au développement d'une solution interne.
 tags:
   - Docker
   - Postfix
